@@ -9,12 +9,30 @@
 */
 /* Custom */
 
+.text-muted {
+	font-size: medium;
+	text-transform: none;
+	letter-spacing: normal;
+}
+
 ul {
     padding-left: 0px !important;
 }
 
 ul li {
     padding-left: 0px !important;
+}
+
+.hr-divider {
+	border: 1px dashed rgba(128, 128, 128, 0.15);
+	width: 50%;
+	margin: 0 auto;
+}
+
+
+
+.project-section {
+	margin-bottom: 15px;
 }
 /* Reset */
 
